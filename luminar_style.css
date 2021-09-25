@@ -1,0 +1,21 @@
+.luminar{
+    text-align: start;
+}
+.picture{
+    text-align: end;
+}
+/* .data{
+    width: 80px;
+    height: 90px;
+} */
+.but{
+    margin-left: 40%;
+}
+.but:hover{
+    
+
+    background-color: #5e068a;
+}
+.but:hover{
+    color: white;
+}
